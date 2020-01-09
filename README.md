@@ -1,12 +1,1 @@
-# RGB.NET.Devices.CorsairLink
-CorsairLink support for RGB.NET
-
-A third party DeviceProvider for RGB.NET for Corsair Link devices such as Lighting Node Pro / Commander Pro using HidSharp 
-
-Massive thanks to...
-
-Darth Affe https://github.com/DarthAffe/RGB.NET/
-
-Zenairo for part of the LNP/CP code, specifically the usb packets.
-
-You can find a example application which syncs all the RGB here - https://github.com/CyanLabs/RGBSync
+This Project adds RGB.NET Support for the PS4 controller via DS4Windows. As a DeviceProvider I used https://github.com/CyanLabs/RGB.NET.Devices.CorsairLink as a reference. It pretty much has the basic setup needed to get a DeviceProvider up and running. Also thanks to the guys over at DS4Windows (https://github.com/Jays2Kings/DS4Windows) for making this awesome Program. Without their DS4Windows DLL I would not have been able to make this. 
